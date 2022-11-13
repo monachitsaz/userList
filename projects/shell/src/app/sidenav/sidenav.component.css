@@ -1,0 +1,21 @@
+mat-drawer {
+    margin-top: 2em;
+    width: 200px;
+    padding: 0.5em;
+    font-size: 1em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.detail-item {
+    margin: 0.1em;
+    color: red;
+}
+
+.detail-header{
+    text-align: center;
+}
+
+  
+  .example-sidenav {
+    padding: 20px;
+  }
