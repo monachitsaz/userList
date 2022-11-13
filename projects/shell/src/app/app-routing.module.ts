@@ -31,7 +31,7 @@ const routes: Routes = [
   },
   // {
   //   path: 'user-detail/:id',
-  //   loadChildren:()=>import('sidenav/Module').then(m=>m.SidenavModule)
+  //   loadChildren:()=>import('sidenav/Module').then(m=>m.RemoteSidenavModule)
   //  },
  
 ];

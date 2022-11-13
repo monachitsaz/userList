@@ -1,15 +1,6 @@
 <mat-drawer-container class="example-container" autosize>
     <mat-drawer #drawer class="example-sidenav mat-elevation-z8" mode="side">
-        <!-- <div class="container card sidenav-details">
-            <h2 class="detail-header"><strong>Detail</strong></h2>
-            <div>
-                Id: <label class="detail-item">{{id}}</label>
-                <br>
-                Name: <label class="detail-item">{{name}}</label>
-                <br>
-                Email: <label class="detail-item">{{email}}</label>
-            </div>
-        </div> -->
+  
         <a [routerLink]="['/user-detail/{{id}}']">
             Sample
           </a>

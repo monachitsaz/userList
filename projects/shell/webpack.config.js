@@ -31,8 +31,7 @@ module.exports = {
         
         // For hosts (please adjust)
         // remotes: {
-        //     "sidenave": "sidenave@http://localhost:3000/remoteEntry.js",
-
+        //     "sidenav": "sidenav@http://localhost:3000/remoteEntry.js",
         // },
 
         shared: share({

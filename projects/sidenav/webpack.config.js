@@ -38,7 +38,7 @@ module.exports = {
         // For hosts (please adjust)
         // remotes: {
         //     "shell": "http://localhost:4200/remoteEntry.js",
-        //     "sidenave": "http://localhost:4200/remoteEntry.js",
+        //     "sidenav": "http://localhost:4200/remoteEntry.js",
 
         // },
 
